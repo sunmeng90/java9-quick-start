@@ -1,0 +1,4 @@
+rootProject.name = 'java9-quick-start'
+
+include 'junit5', 'module_a', 'module_b'
+
